@@ -71,3 +71,4 @@ public class JobTest {
         assertTrue(job1.toString().contains("Core Competency: Data not available" + "\n"));
     }
 }
+

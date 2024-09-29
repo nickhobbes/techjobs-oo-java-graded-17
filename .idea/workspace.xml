@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/JobField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,7 @@
     "Gradle.TestTaskThree.executor": "Run",
     "Gradle.TestTaskTwo.executor": "Run",
     "Gradle.org.launchcode.techjobs.oo.TestTaskFive and 1 more.executor": "Run",
+    "Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more (1).executor": "Run",
     "Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more.executor": "Run",
     "Gradle.org.launchcode.techjobs.oo.TestTaskThree and 1 more (1).executor": "Run",
     "Gradle.org.launchcode.techjobs.oo.TestTaskThree and 1 more.executor": "Run",
@@ -78,8 +76,8 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more (1)">
-    <configuration name="TestTaskFive" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.Tests in 'techjobs-oo-java17-graded.test'">
+    <configuration name="Tests in 'techjobs-oo-java17-graded.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -91,8 +89,6 @@
         <option name="taskNames">
           <list>
             <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;org.launchcode.techjobs.oo.TestTaskFive&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -218,7 +214,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.TestTaskFive" />
+      <item itemvalue="Gradle.Tests in 'techjobs-oo-java17-graded.test'" />
       <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 1 more" />
       <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more" />
       <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more (1)" />
@@ -227,11 +223,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tests in 'techjobs-oo-java17-graded.test'" />
         <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more (1)" />
         <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskThree and 1 more (1)" />
         <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 1 more" />
         <item itemvalue="Gradle.org.launchcode.techjobs.oo.TestTaskFive and 4 more" />
-        <item itemvalue="Gradle.TestTaskFive" />
       </list>
     </recent_temporary>
   </component>
